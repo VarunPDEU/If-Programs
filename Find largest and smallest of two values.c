@@ -15,4 +15,6 @@ int main()
     printf("a is Smallest Value\n");
     else
     printf("b is Smallest Value\n");
+    if(a=b)
+    printf("All Values Are Equal");
 }
